@@ -3,7 +3,7 @@
 ---
 ## Category Comparison
 ### The results of the graph below show you that Music and Theather did very well!
-#### ![Parent Category](https://github.com/[raineytracyn]/kickstarter-analysis/blob/Main/Parent_Category.png?raw=true)
+#### ![Parent Category](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
 ---
 ## Subcategory Comparison
 ### The results of the graph below show you that Tabletop games, Photobooks and Hardware did very well!
