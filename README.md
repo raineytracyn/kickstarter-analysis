@@ -21,7 +21,8 @@ Success to Failure: US:
 ### Go a little further in depth! When you look at the Box and Whisker Plot, you can see 25% of the Kickstarter campaigns for musicals in Great Britain got 0 funding! You can see the median and mode are faily close for Pledged relative to Goals. This tells you the data is symmetic, where as the data shown for Goals is faily skewed due to mean being nearly double what the median is.
 #### ![Kickstarter Mean and Median Comparison](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Kickstarter%20Mean%20and%20Median%20Comparison.png)
 #### ![Kickstarter Statistics Comparison](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Kickstarter%20Statistics%20Comparison.png)
-#### Musical in Great Britain: ![Box and Whisker Plot](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Box%20and%20Whisker%20Plot.png)
+#### Musical in Great Britain: 
+#####![Box and Whisker Plot](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Box%20and%20Whisker%20Plot.png)
 ---
 ## Summary Questions
 ### Is the length of a campaign correlated with its success?
