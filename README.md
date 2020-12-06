@@ -22,7 +22,7 @@ Success to Failure: US:
 #### ![Kickstarter Mean and Median Comparison](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Kickstarter%20Mean%20and%20Median%20Comparison.png)
 #### ![Kickstarter Statistics Comparison](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Kickstarter%20Statistics%20Comparison.png)
 #### Musical in Great Britain: 
-#####![Box and Whisker Plot](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Box%20and%20Whisker%20Plot.png)
+##### ![Box and Whisker Plot](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Box%20and%20Whisker%20Plot.png)
 ---
 ## Summary Questions
 ### Is the length of a campaign correlated with its success?
