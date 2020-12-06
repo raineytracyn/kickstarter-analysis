@@ -10,7 +10,7 @@
 #### ![Subcategory Outcome](C:/users/raine/OneDrive/Desktop_Between_Computers/Education/Vanderbilt_University/Week_1/Graphics/SubCategory_Outcomes.png)
 ---
 ## Launch Date Comparison
-### Launch dates were very interesting! May and June were the most successful! You can see September and December were you least successful, and that January, July, and October had the greatest Failures. Could this be corrolated to holiday time frames?
+### Launch dates were very interesting! May and June were the most successful! You can see September and December were the least successful, and that January, July, and October had the greatest Failures. Could this be corrolated to holiday time frames?
 #### ![Outcomes Based on Launch Dates](C:/users/raine/OneDrive/Desktop_Between_Computers/Education/Vanderbilt_University/Week_1/Graphics/Outcomes_Based_on_Launch_Date.png)
 ---
 ## Descriptive Statistics
