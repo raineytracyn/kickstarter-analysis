@@ -3,7 +3,7 @@
 ---
 ## Category Comparison
 ### The results of the graph below show you that Music and Theather did very well!
-#### ![Parent Category](C:/users/raine/OneDrive/Desktop_Between_Computers/Education/Vanderbilt_University/Week_1/Graphics/Parent_Category_Outcomes.png)
+#### ![Parent Category](https://github.com/[raineytracyn]/kickstarter-analysis/blob/Main/Parent_Category.png?raw=true)
 ---
 ## Subcategory Comparison
 ### The results of the graph below show you that Tabletop games, Photobooks and Hardware did very well!
