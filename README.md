@@ -34,4 +34,4 @@
 ##### ![Parent Categories and Campaign Lengths](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Parent%20Categories%20and%20Campaign%20Lengths.png)
 ---
 ## Next Steps
-### Now that the top three "sucessful Parent Categories by Length of Days" has been establish, we can deep dive into finding what other areas of similarities they have. Once identified, we can look to see if other Parent Categories have the correlations, which will help identify what components likely led to their failed outcome.
+### Now that the top three "sucessful Parent Categories by Length of Days" has been establish, we can deep dive into finding what other areas of similarities they have. Once we have a set of "other similar data sets", we can review the remaining compaigns that are <> 30 days to see which also have the identified set of "other similar data sets". The count of "other similar data sets" will tell us which correlate with success outside of Campaign Length.
