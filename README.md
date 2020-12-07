@@ -1,6 +1,9 @@
 # An Analysis of Kickstarter Campaigns
 ##### Performing analysis on Kickstarter data to uncover trends
 ---
+###### Purpose: This document will provide an analysis of the data provided and a few different ways to look at the results to define success and failer. At the end of this document, youw will be provided recommended steps foward, additional questions to consider, and my opinion on the success and failure of the Kickstarter Campaigns. 
+###### Background:A series of Performing Arts and Technology Kickstarters were started all around the world. A variety of information on each Kickstarter was consolidated for analysis.
+---
 ## Category Comparison
 ### The results of the graph below show you that Music and Theather did very well! The question is how and why? How do we define "very well"?
 #### ![Parent Category](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
