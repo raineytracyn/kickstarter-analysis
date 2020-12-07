@@ -20,6 +20,13 @@
 #### Musical in Great Britain: 
 ##### ![Box and Whisker Plot](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Box%20and%20Whisker%20Plot.png)
 ---
+## Goals
+### How well did the Parent Categories do in meeting their goal?
+#### This was truly an amazing outcome! For parent categories which had a successful outcome, they went well above and beyond! As you can see, Games and Technology exceeded their goals by 292% and 415%! To further dive into the details, we would break this down by country, subcategory and length of compaign as some of these may be higher to two one or two campaigns doing overly well. Anything from timing, climate, culture, or politics could have had an impact on the results.
+##### ![Successful Outcome Goal Results](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Successful%20Outcome%20Goal%20Results.png)
+### In contrast, below shows those whose outcome was failed. One thing to note of interest is that none of the parent categories came close to meeting their goals. All percentages are very low. This would be a great data set to dive into further to learn what similarities they have. Great piece for "lessons learned" going forward.
+##### ![Successful Outcome Goal Results](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Failed%20Outcome%20Goal%20Results.png)
+---
 ## Summary Question
 ### Is the length of a campaign correlated with its success?
 #### When we combine Outcomes, and break down the lengths of time, we find the majority fall within 26 to 30 days
