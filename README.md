@@ -37,11 +37,12 @@
 #### Lets dive a bit deeper; you can see breaking it down by a few days, that the 30 day period has the greatest number of success outcomes. At the same time, the 30 day period also has the greatest number of failed outcomes. What we were able to learn is that a 30 day long kickstarter did much better than any of length of time (which ranged from 1 to 90 days). While this does indicate time frame does have an impact on the outcome, it does not demonstrate itself as a key factor.
 ##### ![Number of Failed Outcomes by Length of Time](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Number%20of%20Success%20and%20Failed%20by%20Length%20of%20Time.png)
 ### What are the top three Parent Categories that had success with a 30 day campaign?
-#### Now that we know 30 days had the greatest success of all lengths, we can now look at which Parent Categories did well with a 30 day campaign. As you can see below, that would be Theater, Music, and Film & Video.
+#### Now that we know 30 days had the greatest success of all lengths, we can now look at which Parent Categories did well with a 30 day campaign. As you can see below, that would be Theater, Music, and Film & Video. **(An interesting observation is that while those three came out most successful looking at it by "Campaign lengths", they were the lowest of "Successful Outcome Goal Results"!!)**
 ##### ![Parent Categories and Campaign Lengths](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Parent%20Categories%20and%20Campaign%20Lengths.png)
 ---
 ## Next Steps
 ### Now that the top three "sucessful Parent Categories by Length of Days" has been establish, we can deep dive into finding what other areas of similarities they have. Once we have a set of "other similar data sets", we can review the remaining compaigns that are <> 30 days to see which also have the identified set of "other similar data sets". The count of "other similar data sets" will tell us which correlate with success outside of Campaign Length.
+### Another area to look into is the observation made a litte bit ago; is that while Theater, Misic, and Film & Video came out most successful looking at it by "Campaign lengths", they were the lowest of "Successful Outcome Goal Results". It is important to understand why. Could it be due to skillsets of staff at different stages of the Kickstarter? Maybe there was a holiday during the campaign? Did it start on a weekday or weekend, or payday? These are all areas that can be looked into further.
 ---
 ## Reference Material
 ### There is a lot of information in the graphs displayed above. For those data and metric driven individuals, please indulge and immerse yourself in the raw data and graph build below! Enjoy and Thank you!
