@@ -27,7 +27,7 @@
 ---
 ## Goals
 ### How well did the Parent Categories do in meeting their goal?
-#### While looking at "Outcomes Based on Goals", you can see success outcomes did best around the $1K mark and the $35k to $45k mark. In contrast, most times success outcomes were doing well, failed outcomes were down. A few points it wasn't include $45k to $49k and on. You can see the path of the two lines mirror one another. Lets take a look at goals from a different perspective!
+#### While looking at "Outcomes Based on Goals", you can see success outcomes did best at less than the $1k goal, and the $35k to $44.9k goals. In contrast, most times that success outcomes were doing well, failed outcomes were down, and vice versa. Both hit ground bottom at the $45k mark, likely indicating the goals were cancelled. There are Lets take a look at goals from a different perspective!
 ##### ![Outcomes vs Goals](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 #### For parent categories which had a successful outcome, they went well above and beyond! As you can see, Games and Technology exceeded their goals by 292% and 415%! To further dive into the details, we would break this down by country, subcategory and length of compaign as some of these may be higher to two one or two campaigns doing overly well. Anything from timing, climate, culture, or politics could have had an impact on the results.
 ##### ![Successful Outcome Goal Results](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Successful%20Outcome%20Goal%20Results.png)
