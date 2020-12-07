@@ -35,3 +35,7 @@
 ---
 ## Next Steps
 ### Now that the top three "sucessful Parent Categories by Length of Days" has been establish, we can deep dive into finding what other areas of similarities they have. Once we have a set of "other similar data sets", we can review the remaining compaigns that are <> 30 days to see which also have the identified set of "other similar data sets". The count of "other similar data sets" will tell us which correlate with success outside of Campaign Length.
+---
+## Reference Material
+### There is a lot of information in the graphs displayed above. For those data and metric driven individuals, please indulge and immerse yourself in the raw data and graph build below! Enjoy and Thank you!
+#### [data-1-1-3-StarterBook](https://github.com/raineytracyn/kickstarter-analysis/blob/main/data-1-1-3-StarterBook.xlsx)
