@@ -15,6 +15,8 @@
 ## Launch Date Comparison
 ### Launch dates were very interesting! May and June were the most successful! You can see September and December were the least successful, and that January, July, and October had the greatest Failures. Could this be corrolated to holiday time frames? Lets continue.....
 #### ![Outcomes Based on Launch Dates](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Outcomes%20Based%20on%20Launch%20Date.png)
+### Theater Outcome Based on Launch Date: Here is an example of diving into a paticular parent category. Months which stand out are June and November. You can see the number of Success outcomes go up while the number of failed outcomes go down. In contrast, July and December both show a rise in failed and decline in successful outcomes. Also, very interesting that there were no cancelations in October. It would be good to understand why.
+#### ![Theater Outcome Based on Launch Date](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Theater_Outomes_vs_Launch.png)
 ---
 ## Descriptive Statistics
 ### Let's go a little further in depth! When you look at the Box and Whisker Plot, you can see 25% of the Kickstarter campaigns for musicals in Great Britain got 0 funding! You can see the median and mode are faily close for Pledged relative to Goals. This tells you the data is symmetic, where as the data shown for Goals is faily skewed due to mean being nearly double what the median is.
@@ -25,7 +27,9 @@
 ---
 ## Goals
 ### How well did the Parent Categories do in meeting their goal?
-#### This was truly an amazing outcome! For parent categories which had a successful outcome, they went well above and beyond! As you can see, Games and Technology exceeded their goals by 292% and 415%! To further dive into the details, we would break this down by country, subcategory and length of compaign as some of these may be higher to two one or two campaigns doing overly well. Anything from timing, climate, culture, or politics could have had an impact on the results.
+#### While looking at "Outcomes Based on Goals", you can see success outcomes did best around the $1K mark and the $35k to $45k mark. In contrast, most times success outcomes were doing well, failed outcomes were down. A few points it wasn't include $45k to $49k and on. You can see the path of the two lines mirror one another. Lets take a look at goals from a different perspective!
+##### ![Outcomes vs Goals](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+#### For parent categories which had a successful outcome, they went well above and beyond! As you can see, Games and Technology exceeded their goals by 292% and 415%! To further dive into the details, we would break this down by country, subcategory and length of compaign as some of these may be higher to two one or two campaigns doing overly well. Anything from timing, climate, culture, or politics could have had an impact on the results.
 ##### ![Successful Outcome Goal Results](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Successful%20Outcome%20Goal%20Results.png)
 ### In contrast, below shows those whose outcome was failed. One thing to note of interest is that none of the parent categories came close to meeting their goals. All percentages are very low. This would be a great data set to dive into further to learn what similarities they have. Great piece for "lessons learned" going forward.
 ##### ![Successful Outcome Goal Results](https://github.com/raineytracyn/kickstarter-analysis/blob/main/Failed%20Outcome%20Goal%20Results.png)
